@@ -1,4 +1,4 @@
-# MY README FILE - VOLDEMORT THEME PAGE
+# MY README FILE - Pranith's Website
 
 !['Learnign is fun' Image from Adobe Spark](https://cdn.cp.adobe.io/content/2/dcx/d8a37e13-4036-4b41-b1bf-e030a744b19c/rendition/preview.jpg/version/0/format/jpg/dimension/width/size/1200)
 
