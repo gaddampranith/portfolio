@@ -33,3 +33,7 @@ Most of the content have been extracted from www.wikipedia.org for the purpose o
 
 Code snippets have been taken from several websites where the license was MIT License which was free to use as necessary.
 
+This website has the Code of Conduct, License, Bug Report Template where clear instructions have been given how to report a bug in the website.
+
+The website is still under continuous upgradation and suggestions/bug reports are welcome at any point of time.
+Graphs for the website making will be displayed shortly.
